@@ -5,7 +5,7 @@ public class Binomial {
  
 		// Testing the basic binomial implementation:
     	System.out.println(binomial1(Integer.parseInt(args[0]), Integer.parseInt(args[1])));
-		
+
 	}
 
 	// Computes the Binomial function, basic version.
